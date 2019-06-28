@@ -1,0 +1,263 @@
+body{
+  color: #1B1B1E;
+  text-align:center;
+  background-color: #FFEDE5;
+  font-family: 'Roboto', sans-serif;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  margin-right:100px;
+  margin-left:100px;
+  q
+  
+}
+
+h1
+{
+  font-family: 'Monoton', sans-serif;
+}
+
+h2{
+  font-family: 'Monoton', sans-serif;
+}
+
+.activenavig{
+  padding:60px;
+  color:#1B1B1E;
+ 
+}
+  
+
+#book{
+  width:220px;
+  height: 300px;
+  border-style:solid;
+  border-color:black; 
+  border-size: 50%;
+}
+
+
+div{
+/*   background-color:#FBD7DA;
+  margin-left: 300px; */
+  margin-right:300px;
+  height:40px;
+    font-family: 'Monoton', sans-serif;
+
+  
+  }
+a{
+  color:white;
+  margin-top: 7px;
+}
+
+.sci-fi{
+  color:#1B1B1E;
+  margin-right:260px;
+  background-color:#E5C4C7;
+}
+.romance{
+  color:#1B1B1E;
+  background-color:#E5C4C7;
+  
+}
+
+.fantasy{
+  height:200px;
+  width: 300px;
+  margin-right: 310px
+}
+.love{
+  height:200px;
+  width:300px;
+  margin-right: 30px
+}
+
+.mystery{
+  color:#1B1B1E;
+  background-color:#E5C4C7;
+  margin-right:300px;
+  
+  
+}
+
+.poetry{
+   color:#1B1B1E;
+  background-color:#E5C4C7;
+}
+
+.horror{
+  height:200px;
+  margin-right: 300px;
+}
+
+.wow{
+ height:200px
+}
+.real{
+   color:#1B1B1E;
+  background-color:#E5C4C7;
+  margin-right:300px;
+}
+.spoken{
+   color:#1B1B1E;
+  background-color:#E5C4C7
+}
+.oops{
+  height:200px
+}
+.word{
+  height:160px;
+  margin-left: 300px
+}
+
+
+.button{
+  background-color:#1B1B1E;
+  color:white;
+}
+
+#aboutus {
+  flex-direction: column;
+  display:flex;
+  flex-wrap: wrap;
+  padding-right: 300px;
+  padding-left: 100px;
+  background-color: none;
+  object-cover: fit;
+  
+  
+}
+#augpic{
+  width: 200%;
+  height: 200px;
+  padding-right: 10px;
+  padding-left:10px;
+ 
+}
+
+#pad {
+  padding-bottom: 87px;
+  
+}
+
+.container{
+  background-color:#FBD7DA;
+  margin-left:0px;
+  margin-right:0px;
+  padding-top:10px;
+  padding-bottom:0px;
+}
+#imgf {
+  length:350px;
+  width:175px;
+}
+
+#imgn {
+  length:350px;
+  width:175px;
+}
+
+#imgm {
+  length:350px;
+  width:175px;
+}
+
+#imgp {
+  length:350px;
+  width:175px;
+}
+
+#imgrf {
+  length:350px;
+  width:175px;
+}
+
+#imgr {
+  length:350px;
+  width:175px;
+}
+
+.syn {
+  margin:100px;
+}
+
+.play {
+  background-color:#1B1B1E;
+  margin-left:475px;
+  margin-right:475px;
+  margin-bottom:300px;
+}
+
+.font {
+ 
+font-family: 'Monoton', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Dropdown Button */
+/* .dropbtn {
+  background-color: #3498DB;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Dropdown button on hover & focus */
+/* .dropbtn:hover, .dropbtn:focus {
+  background-color: #2980B9;
+}
+
+/* The container <div> - needed to position the dropdown content */
+/* .dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:
+.side {
+   display:inline-block;
+}lock;}
+ */ */ */
+
+#aboutus{
+  border-style: groove;
+  border-color: black;
+}
+
+
+
